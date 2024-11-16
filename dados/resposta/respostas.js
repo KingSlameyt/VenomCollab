@@ -1,10 +1,10 @@
 global.resposta = {
-    feito: 'Feito!',
-    admin: 'Este recurso só pode ser utilizado por administradores',
-    botAdmin: 'Este recurso só pode ser utilizado quando o bot é um administrador do grupo',
-    dono: 'Este recurso só pode ser utilizado pelo proprietario',
-    grupo: 'Este recurso é apenas para grupos',
-    privado: 'Este recurso é apenas para chats privados',
-    aguarde: 'Aguarde uns minutos...',
+    feito: 'Fertig!',
+    admin: 'Nur Admins der Gruppe können diesen Befehl benutzen',
+    botAdmin: 'Der Bot braucht Admin in der Gruppe damit dieser command benutzt werden kann',
+    dono: 'Dieser Command kann nur vom Besitzer des Botes verwendet werden',
+    grupo: 'Command nur in Gruppe!',
+    privado: 'Command nur Privat!',
+    aguarde: 'Warten sie...',
     error: 'Erro!',
 }
